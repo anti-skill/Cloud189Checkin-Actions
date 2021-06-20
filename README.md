@@ -4,8 +4,6 @@
 > [cloud189](https://github.com/Aruelius/cloud189)
 
 
-## 一、Fork此仓库
-![](http://tu.yaohuo.me/imgs/2020/06/f059fe73afb4ef5f.png)
 ## 二、设置账号密码
 添加名为**USER**、**PWD**、**WWBOT**(可选)、**DDBOT**(可选)、**SCKEY**(可选)的变量  
 值分别为**账号**、**密码**、**企业微信群聊机器人的url地址**、**钉钉群聊机器人的url地址**(在钉钉中创建时，验证方式选关键字，填入“签到”)、**Server酱的KEY**  
